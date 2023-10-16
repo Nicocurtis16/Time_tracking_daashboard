@@ -69,6 +69,7 @@ body {
 .buttons {
   height: 4.25rem;
   width: 6.525rem;
+  margin-top: 1.3rem;
 }
 
 .buttons button {
@@ -79,6 +80,8 @@ body {
   padding: 1rem 1rem 0 3rem;
   cursor: pointer;
   transition: 0.2s;
+  font-size: 18px;
+  /* margin-top: 2rem; */
 }
 #title i {
   /* padding-left: 8rem; */
@@ -197,8 +200,8 @@ body {
   }
   .buttons {
     display: flex;
-    margin-bottom: 10rem;
-    margin-right: 20rem;
+    margin-top: -10px;
+    margin-left: -30px;
   }
   .name_main {
     margin-left: 1.5rem;
